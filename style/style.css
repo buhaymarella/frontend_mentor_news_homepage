@@ -33,7 +33,7 @@ a{
 nav{
     display: flex;
     justify-content: space-between;
-    padding: 3% 8%;
+    padding: 3% 5%;
 
 }
 nav ul li,
@@ -149,7 +149,7 @@ nav ul li,
 }
 /* Main */
 main{
-    padding: 0 10%;
+    padding: 0 5%;
 }
 .upper-container{
     display: flex;
@@ -234,6 +234,7 @@ hr{
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
+    justify-content: center;
 }
 .grid-container{
     display: grid;
